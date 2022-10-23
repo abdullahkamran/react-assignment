@@ -1,3 +1,8 @@
+This program uses redux to show a counter that can be incremented or decremented from buttons.
+Also it has a timer that increases counter automatically.
+A dropdown has been added to change the step of increment/decrement.
+Unit tests have been provided for redux actions and reducers.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
